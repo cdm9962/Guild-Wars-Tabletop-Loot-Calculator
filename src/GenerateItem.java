@@ -106,6 +106,7 @@ public class GenerateItem {
         HashMap<String, Integer> rarityTable = new HashMap<>(4);
         rarityTable.put("Common", 4);
         rarityTable.put("Uncommon", 6);
+        rarityTable.put("Masterwork", 8);
         rarityTable.put("Rare", 8);
         rarityTable.put("Exotic", 12);
 
